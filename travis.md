@@ -36,3 +36,5 @@ In the situation of tests file and main source files having same name, it is str
             test_view.py
 
 [Intro to Pytest](https://github.com/pluralsight/intro-to-pytest)
+
+Installing Python and R together: https://stackoverflow.com/questions/44317627/installing-both-python-and-r-for-a-travis-build
