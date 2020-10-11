@@ -8,4 +8,4 @@ before_install:
   - pip3 install -U pytest
 
 script:
-  - python -m pytests
+  - pytest
