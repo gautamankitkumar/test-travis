@@ -15,4 +15,6 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Suggests: testthat
-Built: R 4.0.2; ; 2020-10-21 03:27:38 UTC; windows
+NeedsCompilation: no
+Packaged: 2020-10-21 13:47:54 UTC; ankitgau
+Built: R 4.0.2; ; 2020-10-21 13:48:16 UTC; windows

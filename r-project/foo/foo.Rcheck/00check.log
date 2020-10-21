@@ -1,8 +1,7 @@
-* using log directory 'C:/Users/ankitgau/Desktop/test-travis/r-project/foo.Rcheck'
+* using log directory 'C:/Users/ankitgau/Desktop/test-travis/r-project/foo/foo.Rcheck'
 * using R version 4.0.2 (2020-06-22)
 * using platform: x86_64-w64-mingw32 (64-bit)
 * using session charset: ISO8859-1
-* using option '--no-manual'
 * checking for file 'foo/DESCRIPTION' ... OK
 * this is package 'foo' version '0.0.0.9000'
 * package encoding: UTF-8
@@ -11,24 +10,16 @@
 * checking if this is a source package ... OK
 * checking if there is a namespace ... OK
 * checking for executable files ... OK
-* checking for hidden files and directories ... NOTE
-Found the following hidden files and directories:
-  ..Rcheck
-These were most likely included in error. See section 'Package
-structure' in the 'Writing R Extensions' manual.
+* checking for hidden files and directories ... OK
 * checking for portable file names ... OK
 * checking whether package 'foo' can be installed ... OK
 * checking installed package size ... OK
 * checking package directory ... OK
-* checking DESCRIPTION meta-information ... NOTE
-Checking should be performed on sources prepared by 'R CMD build'.
+* checking DESCRIPTION meta-information ... OK
 * checking top-level files ... OK
 * checking for left-over files ... OK
 * checking index information ... OK
-* checking package subdirectories ... WARNING
-Found the following directory with the name of a check directory:
-  ./..Rcheck
-Most likely, these were included erroneously.
+* checking package subdirectories ... OK
 * checking R files for non-ASCII characters ... OK
 * checking R files for syntax errors ... OK
 * checking whether the package can be loaded ... OK
@@ -47,5 +38,6 @@ Most likely, these were included erroneously.
 * checking for unstated dependencies in 'tests' ... OK
 * checking tests ... OK
   Running 'testthat.R'
+* checking PDF version of manual ... OK
 * DONE
-Status: 1 WARNING, 2 NOTEs
+Status: OK

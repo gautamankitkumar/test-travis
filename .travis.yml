@@ -14,11 +14,7 @@ jobs:
         - pytest
 
     - language: r
-      sudo: true
-      cache:
         - packages : true
-        - ccache
-      latex: true
       warnings_are_errors: false
 
       r: 
@@ -26,8 +22,8 @@ jobs:
 
       before_install:
         - cd r-project
-        - Rscript -e 'install.packages(c("devtools"))'
+        - cd foo
 
       script: 
-        - R CMD build foo
-        - R CMD check foo --no-manual
+        - R CMD build .
+        - R CMD check *.tar.gz
