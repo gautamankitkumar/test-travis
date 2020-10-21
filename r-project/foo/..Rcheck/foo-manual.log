@@ -1,0 +1,416 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  20 OCT 2020 21:31
+entering extended mode
+**C:/Users/ankitgau/AppData/Local/Temp/RtmpGI8wVz/Rd2pdf306c42a04572/Rd2.tex
+(C:/Users/ankitgau/AppData/Local/Temp/RtmpGI8wVz/Rd2pdf306c42a04572/Rd2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk10.clo"
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (C:/PROGRA~1/R/R-40~1.2/share/texmf/tex/latex\Rd.sty
+Package: Rd 
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable
+.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count177
+\LTcapwidth=\dimen135
+\LT@head=\box45
+\LT@firsthead=\box46
+\LT@foot=\box47
+\LT@lastfoot=\box48
+\LT@cols=\count178
+\LT@rows=\count179
+\c@LT@tables=\count180
+\c@LT@chunks=\count181
+\LT@p@ftn=\toks15
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.
+sty"
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read2
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.s
+ty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+\ldescriptionwidth=\skip53
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.st
+y"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.st
+y"
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/inconsolata\zi4
+.sty"
+Package: zi4 2019/05/17 v1.12
+
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval
+.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyv
+al.tex"
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvut
+ils.tex"
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyva
+l.tex"))
+\XKV@depth=\count182
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\zifour@ocount=\count183
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.
+sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
+lor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperr
+ef.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcm
+ds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.s
+ty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftexcmds\pd
+ftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\inf
+warerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvs
+etkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\
+kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdf
+escape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor
+.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\let
+ltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook
+.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvopt
+ions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen136
+\Hy@linkcounter=\count184
+\Hy@pagecounter=\count185
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc
+.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intca
+lc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etex
+cmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count186
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count187
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen137
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset
+.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bi
+gintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count188
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbe
+gshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count189
+\c@Item=\count190
+\c@Hfootnote=\count191
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdfte
+x.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atver
+yend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count192
+\c@bookmark@seq@number=\count193
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\
+rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter
+\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip54
+)
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 377.
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+Package hyperref Info: Option `linktocpage' set `true' on input line 377.
+Package hyperref Info: Option `plainpages' set `false' on input line 377.
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.st
+y"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.s
+ty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+\@indexfile=\write3
+\openout3 = `Rd2.idx'.
+
+
+Writing index file Rd2.idx
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3bac
+kend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box49
+) (Rd2.aux)
+\openout1 = `Rd2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 8.
+
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd
+"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen140
+\scratchbox=\box50
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen141
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks23
+)
+\AtBeginShipoutBox=\box51
+Package hyperref Info: Link coloring ON on input line 8.
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namere
+f.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcou
+nt.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestrin
+g\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count267
+)
+LaTeX Info: Redefining \ref on input line 8.
+LaTeX Info: Redefining \pageref on input line 8.
+LaTeX Info: Redefining \nameref on input line 8.
+ (Rd2.out) (Rd2.out)
+\@outlinefile=\write4
+\openout4 = `Rd2.out'.
+
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 20
+.
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/inconsolata\t1z
+i4.fd"
+File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 10.0pt on input line 20.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 29
+.
+
+("C:\Users\ankitgau\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd
+"
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+) (Rd2.toc)
+\tf@toc=\write5
+\openout5 = `Rd2.toc'.
+
+
+No file Rd2.ind.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
+[1
+
+
+{C:/Users/ankitgau/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
+
+(Rd2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
+Package rerunfilecheck Info: File `Rd2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
+ ) 
+Here is how much of TeX's memory you used:
+ 5952 strings out of 481212
+ 92575 string characters out of 2902658
+ 351219 words of memory out of 3000000
+ 21420 multiletter control sequences out of 15000+200000
+ 557886 words of font info for 46 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 53i,5n,43p,282b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/ankitgau/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
+enc}{C:/Users/ankitgau/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/incons
+olata/i4-t1-0.enc}<C:/Users/ankitgau/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/ankitgau/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/ankitgau/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ankitgau
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Rd2.pdf (1 page, 44888 bytes).
+PDF statistics:
+ 31 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

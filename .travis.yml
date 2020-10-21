@@ -1,11 +1,31 @@
-language: python
-python:
-  - "3.7"
-cache: pip
-before_install:
-  - python3 --version
-  - pip3 install -U pip
-  - pip3 install -U pytest
+jobs:
+  include:
+    - language: python
+      python:
+        - "3.7"
+      cache: 
+        - pip
+      before_install:
+        - cd python-project
+        - python3 --version
+        - pip3 install -U pip
+        - pip3 install -U pytest
+      script:
+        - pytest
 
-script:
-  - pytest
+    - language: r
+      sudo: true
+      cache:
+        - packages : true
+        - ccache
+      latex: true
+      warnings_are_errors: false
+
+      r: 
+        - devel
+
+      before_install: 
+        - cd r-project
+      script: 
+        - R CMD build foo
+        - R CMD check foo --no-manual
