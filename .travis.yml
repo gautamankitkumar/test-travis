@@ -24,8 +24,11 @@ jobs:
       r: 
         - devel
 
-      before_install: 
+      before_install:
         - cd r-project
+        - Rscript -e 'install.packages(c("roxygen2", "devtools"))'
+        - make
+
       script: 
         - R CMD build foo
         - R CMD check foo --no-manual
