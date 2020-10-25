@@ -1,29 +1,13 @@
-jobs:
-  include:
-    - language: python
-      python:
-        - "3.7"
-      cache: 
-        - pip
-      before_install:
-        - cd python-project
-        - python3 --version
-        - pip3 install -U pip
-        - pip3 install -U pytest
-      script:
-        - python -m pytest
+language: python
+python:
+  - "3.7"
+cache: 
+  - pip
+before_install:
+  - python3 --version
+  - pip3 install -U pip
+  - pip3 install -U pytest
 
-    - language: r
-        - packages : true
-      warnings_are_errors: false
-
-      r: 
-        - devel
-
-      before_install:
-        - cd r-project
-        - cd foo
-
-      script: 
-        - R CMD build .
-        - R CMD check *.tar.gz
+script:
+  - chmod +x r-dir-script.sh
+  - ./r-dir-script.sh
