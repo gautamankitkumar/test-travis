@@ -1,4 +1,5 @@
-if [-z "$(ls -A r-dir)"]; then
+#!/bin/bash
+if [-z "$(ls -a r-project)"]; then
 	cd python-project
 	pytest
 else
