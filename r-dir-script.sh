@@ -5,11 +5,17 @@
 cd project
 cd src
 
-count=`ls -1 *.py 2>/dev/null | wc -l`
+count = `ls -1 *.py 2>/dev/null | wc -l`
+
+
 cd ..
+
 if [ $count != 0 ]; then 
 echo "Python project"
 python -m pytest
-else
-	echo "R project"
+elif [ $count1 !=0 ]; then
+	sudo apt install r-base
+	apt-get -y build-dep libcurl4-gnutls-dev
+	apt-get -y install libcurl4-gnutls-dev
+	Rscript -e 'install.packages(c("devtools","testthat"))'
 fi
