@@ -1,7 +1,17 @@
 language: r
 r:
-  -devel
-sudo: required
+  - devel
+
+
+cache:
+  directories:
+    - $TRAVIS_BUILD_DIR/packrat/src
+    - $TRAVIS_BUILD_DIR/packrat/lib
+  packages: true
+
+repos:
+  CRAN: https://cloud.r-project.org
+
 before_install:
   - python3 --version
   - pip3 install -U pip
