@@ -14,7 +14,6 @@ cd ..
 
 if [ $count != 0 ]; then 
 	echo "Python project"
-	python -m pytest
 
 elif [ $count1 !=0 ]; then
 	sudo apt install r-base
