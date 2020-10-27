@@ -5,19 +5,19 @@
 cd project
 cd src
 
-py_files = (' find ./ -maxdepth 1 -name "*.py" ')
+count=`ls -1 *.py 2>/dev/null | wc -l`
 
-r_files =('find ./ -maxdepth 1 -name "*.r" ')
+count2=`ls -1 *.r 2>/dev/null | wc -l`
+
 
 cd ..
 
-if [ ${#py_files[@]} -gt 0 ]; then 
+if [ $count != 0 ]; then 
 	echo "Python project"
 	python -m pytest
 
-elif [ ${#r_files[@]} -gt 0 ]; then
+elif [ $count1 !=0 ]; then
 	sudo apt install r-base
-
 	# https://stackoverflow.com/a/20924082
 	apt-get -y build-dep libcurl4-gnutls-dev
 	apt-get -y install libcurl4-gnutls-dev
