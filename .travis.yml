@@ -1,8 +1,13 @@
 language: r
 r:
   - devel
+r_packages:
+  - devtools
+  - testthat
 
-
+apt_packages:
+  - libxml2-dev
+  - libcurl4-gnutls-dev
 cache:
   directories:
     - $TRAVIS_BUILD_DIR/packrat/src
@@ -21,4 +26,4 @@ before_install:
   - ./r-dir-script.sh
 
 script:
-  - pytest
+  - echo "Hello World"

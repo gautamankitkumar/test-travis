@@ -18,8 +18,6 @@ if [ "$count" != 0 ]; then
 elif [ "$count2" != 0 ]; then
 
 	# https://stackoverflow.com/a/20924082
-	apt-get -y build-dep libcurl4-gnutls-dev
-	apt-get -y install libcurl4-gnutls-dev
-	Rscript -e 'install.packages(c("devtools","testthat"))'
+	
 	Rscript -e 'library(testthat); test_dir("test/")'
 fi
