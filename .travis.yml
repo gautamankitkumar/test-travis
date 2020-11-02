@@ -20,11 +20,11 @@ r_check_args: --no-build-vignettes --no-manual --timings
 
 # Install python dependencies in this step
 before_install:
-  - python3 --version
-  - sudo apt-get -y install python3-pip
-  - pip3 install -U pip
-  - pip3 install -U pytest
+  - chmod +x install-script.sh
+  - chmod +x test-script.sh
+
+install:
+  - ./install-script.sh
 
 script:
-  - chmod +x r-dir-script.sh
-  - ./r-dir-script.sh
+  - ./test-script.sh
