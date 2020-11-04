@@ -8,6 +8,7 @@ r_packages:
 apt_packages:
   - libxml2-dev
   - libcurl4-gnutls-dev
+  
 cache:
   directories:
     - $TRAVIS_BUILD_DIR/packrat/src
@@ -28,3 +29,10 @@ install:
 
 script:
   - ./test-script.sh
+
+
+# https://docs.travis-ci.com/user/notifications/#configuring-email-notifications
+notifications:
+  email:
+    recipients:
+      - ankitgau@andrew.cmu.edu

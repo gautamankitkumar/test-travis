@@ -1,4 +1,4 @@
-# All studies related to Travis
+# TravisCI related
 
 ## Core concepts on CI [Travis](https://docs.travis-ci.com/user/for-beginners)
 
